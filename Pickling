@@ -2,6 +2,8 @@ TJ:@SP please do check Q.8 in
 SP: ok ANN upload kar dunga
 SV: @AM tu kis data set pe kar raha hai @SP pahele ANN karo na 
 usi ko ache se @SP ye batao jo assignment submit kiya tha wahi hai na ANN to kuch aur change karoge kya usme? @AD baaki k theory questions kaun kar raha hai PART A me se?
+@AM tere code me error aa rhai hai ValueError: Error when checking target: expected dense_4 to have 2 dimensions, but got array with shape (60000, 10, 2)
+@pl chk
 SA:
 SF:
 AM: Q9 fashion_mnist haina already... Tu bhi karle kisi pe ... @SV Q9_CNN_AM uploaded in third project
