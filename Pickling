@@ -4,7 +4,7 @@ SV: @AM tu kis data set pe kar raha hai @SP pahele ANN karo na
 usi ko ache se
 SA:
 SF:
-AM: Q9
+AM: Q9 fashion_mnist haina already... Tu bhi karle kisi pe
 AD: Q2, Q3 Q7
 NG: 
 MS:
